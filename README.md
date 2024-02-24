@@ -40,6 +40,8 @@
   <img width="1112" alt="Screenshot 2024-02-24 at 9 21 36 AM" src="https://github.com/barnascript/missed_appointments/assets/142545558/fa074e26-8103-4237-bf14-7138ef0c6431">
 
 
-```
-df.isnull().sum()
-```
+  ```
+  df.isnull().sum()
+  ```
+
+  Check for the remainer of the code here  ~ https://github.com/barnascript/missed_appointments/blob/main/Missed%20Appointments.ipynb
